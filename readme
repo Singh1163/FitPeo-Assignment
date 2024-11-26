@@ -1,0 +1,18 @@
+Overview
+This project provides a set of utility classes and methods to simplify the use of Selenium WebDriver for browser automation tasks. It includes functionality to launch browsers, navigate pages, interact with elements, handle waiting mechanisms, and more.
+
+Prerequisites
+Before running the project, make sure you have the following installed:
+
+Python 3.6+
+Selenium (for WebDriver interactions)
+WebDriver for your preferred browser (e.g., ChromeDriver, GeckoDriver, etc.)
+
+Install Dependencies
+Install Python: Ensure Python 3.6+ is installed. Download from python.org.
+Install Selenium: Run the following command to install the Selenium package:
+Install WebDriver: Make sure to install the WebDriver for your browser:
+
+For Chrome: ChromeDriver
+For Firefox: GeckoDriver
+For Edge: EdgeDriver
